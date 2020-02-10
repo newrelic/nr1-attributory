@@ -3,7 +3,7 @@
 
 ## Usage
 
-Attributory is a dictionary for your application's attributes stored within New Relic.
+Attributory is a dictionary for your application's (APM, Browser or Mobile) attributes stored within New Relic. Attributory is an entity level New Relic One application. When you open a Service, Browser application, or Mobile application from the Entity Explorer you will find Attributory (listed as Attribute Dictionary) on the left hand navigation panel. 
 
 ![Attributory Main Screenshot](screenshots/attributory-screenshot-main.png)
 
