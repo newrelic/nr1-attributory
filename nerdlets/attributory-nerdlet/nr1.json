@@ -1,0 +1,21 @@
+{
+    "schemaType": "NERDLET",
+    "id": "attributory-nerdlet",
+    "description": "Dictionary of attributes for entities",
+    "displayName": "Attributes Dictionary",
+    "entities": [
+      {
+        "domain": "APM",
+        "type": "APPLICATION"
+      },
+      {
+        "domain": "BROWSER",
+        "type": "APPLICATION"
+      },
+      {
+        "domain": "MOBILE",
+        "type": "APPLICATION"
+      }
+    ],
+    "actionCategory": "monitor"
+}
