@@ -3,7 +3,7 @@
 
 ## Usage
 
-Attributory is a dictionary for your application's (APM, Browser or Mobile) attributes stored within New Relic. Attributory is an entity level New Relic One application. When you open a Service, Browser application, or Mobile application from the Entity Explorer you will find Attributory (listed as Attribute Dictionary) on the left hand navigation panel. 
+Attributory is a dictionary for your application's (APM, Browser or Mobile) attributes stored within New Relic. Attributory is an entity level New Relic One application. When you open a Service, Browser application, or Mobile application from the Entity Explorer you will find Attributory (listed as Attributes Dictionary) on the left hand navigation panel.
 
 ![Attributory Main Screenshot](screenshots/attributory-screenshot-main.png)
 
@@ -33,7 +33,7 @@ cd nr1-attributory
 nr1 nerdpack:serve
 ```
 
-Visit [https://one.newrelic.com/?nerdpacks=local](https://one.newrelic.com/?nerdpacks=local); navigate to an application - APM (listed as Services within New Relic One), Browser or Mobile; click on the `Attribute Dictionary` option within the left navigation column, and :sparkles:
+Visit [https://one.newrelic.com/?nerdpacks=local](https://one.newrelic.com/?nerdpacks=local); navigate to an application - APM (listed as Services within New Relic One), Browser or Mobile; click on the `Attributes Dictionary` option within the left navigation column, and :sparkles:
 
 ## Deploying this Nerdpack
 
@@ -48,7 +48,7 @@ nr1 nerdpack:deploy [-c [DEV|BETA|STABLE]] [--profile=your_profile_name]
 nr1 nerdpack:subscribe [-c [DEV|BETA|STABLE]] [--profile=your_profile_name]
 ```
 
-Visit [https://one.newrelic.com](https://one.newrelic.com); navigate to an application - APM (listed as Services within New Relic One), Browser or Mobile; click on the `Attribute Dictionary` option within the left navigation colum, and :sparkles:
+Visit [https://one.newrelic.com](https://one.newrelic.com); navigate to an application - APM (listed as Services within New Relic One), Browser or Mobile; click on the `Attributes Dictionary` option within the left navigation colum, and :sparkles:
 
 ## Using Attributory
 
