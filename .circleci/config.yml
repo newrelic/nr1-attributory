@@ -63,7 +63,7 @@ third-party-bot: &third-party-bot
   # - commiting the incremented package.json version back to the repository
   # - auto-generated change logs from semantic-release
 deploy-key-fingerprint: &deploy-key-fingerprint
-  {{ REPO_DEPLOY_KEY_FINGERPRINT }}
+  21:9e:49:8d:d6:cc:17:18:21:1e:25:ee:b4:c3:b6:2d
 
 # Source code caching
 source-cache-key: &source-cache-key
