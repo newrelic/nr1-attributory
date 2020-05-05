@@ -1,9 +1,12 @@
+[![Community Project header](https://github.com/newrelic/open-source-office/raw/master/examples/categories/images/Community_Project.png)](https://github.com/newrelic/open-source-office/blob/master/examples/categories/index.md#category-community-project) 
 
 ![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/newrelic/nr1-attributory?include_prereleases&sort=semver) [![Snyk](https://snyk.io/test/github/newrelic/nr1-attributory/badge.svg)](https://snyk.io/test/github/newrelic/nr1-attributory)
 
-## Usage
+# Attributory
 
 Attributory is a dictionary for your APM, Browser, or Mobile application attributes stored within New Relic. Attributory is an entity level New Relic One application that's listed as Attributes Dictionary in the left-hand navigation when you open a service, Browser application, or Mobile application from the entity explorer.
+
+## Usage
 
 ![Attributory Main Screenshot](screenshots/attributory-screenshot-main.png)
 
