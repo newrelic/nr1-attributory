@@ -177,7 +177,7 @@ a.tiny-button {
 .filters {
   margin-top: 20px;
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: minmax(300px, auto) max-content;
 
   .text-filter {
     position: relative;

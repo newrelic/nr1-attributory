@@ -277,7 +277,7 @@ export default class Attributory extends React.Component {
                 <a
                   href="#"
                   key={`filter-${e.name}`}
-                  className={`${e.display ? 'on' : 'off'}`}
+                  className={`u-unstyledLink ${e.display ? 'on' : 'off'}`}
                   onClick={evt => this.filterEvent(evt, e.name)}
                 >
                   {e.name}
