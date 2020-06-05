@@ -1,5 +1,6 @@
+# New Relic One Attributory (nr1-attributory)
 
-![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/newrelic/nr1-attributory?include_prereleases&sort=semver) [![Snyk](https://snyk.io/test/github/newrelic/nr1-attributory/badge.svg)](https://snyk.io/test/github/newrelic/nr1-attributory)
+![CI](https://github.com/newrelic/nr1-attributory/workflows/CI/badge.svg) ![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/newrelic/nr1-attributory?include_prereleases&sort=semver) [![Snyk](https://snyk.io/test/github/newrelic/nr1-attributory/badge.svg)](https://snyk.io/test/github/newrelic/nr1-attributory)
 
 ## Usage
 
